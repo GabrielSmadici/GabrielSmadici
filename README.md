@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Gabriel, a Computer Science Student based in London.
+
+Early-career cybersecurity enthusiast that likes to take things apart (in a controlled envinronment).
+
+Tech Stack - python, java, javascript, html, css, php, SQL
+
+Tools I like - Wireshark, Nmap, Gobuster
 <!--
 **GabrielSmadici/GabrielSmadici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
